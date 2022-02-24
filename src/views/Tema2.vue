@@ -162,10 +162,6 @@
         .col-4.col-sm-6.col-md-4.mb-4.mb-md-0
           img(src="@/assets/componentes/car01.svg")
 
-        .col-md.col-lg-6
-          h3 Inmutabilidad: 
-          p.mb-4  los datos grabados en las cadenas son irreversibles.
-         
 
 
 </template>
